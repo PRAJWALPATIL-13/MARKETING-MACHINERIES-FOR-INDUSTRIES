@@ -11,4 +11,5 @@ Basically it is a menu driven project which uses nested switch statements.
 
 ## How to run the project
 First compile the C code using this command: gcc Machinery.c
+
 Then run using this command: ./a.out
