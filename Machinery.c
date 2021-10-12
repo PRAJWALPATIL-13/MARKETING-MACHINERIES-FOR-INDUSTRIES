@@ -30,7 +30,7 @@ void frtd();
 void rtrd();
 void frtm();
 void comp();
-
+//void temp(); //added method
 int main()
 {
 int ans;
