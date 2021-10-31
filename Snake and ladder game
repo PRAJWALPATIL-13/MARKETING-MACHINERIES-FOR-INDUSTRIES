@@ -1,8 +1,3 @@
-# Python3 program to find minimum number
-# of dice throws required to reach last
-# cell from first cell of a given
-# snake and ladder board
-
 # An entry in queue used in BFS
 class QueueEntry(object):
 	def __init__(self, v = 0, dist = 0):
@@ -94,4 +89,4 @@ moves[18] = 6
 print("Min Dice throws required is {0}".
 	format(getMinDiceThrows(moves, N)))
 
-# This code is contributed by Ajitesh Pathak
+
