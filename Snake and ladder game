@@ -94,4 +94,4 @@ moves[18] = 6
 print("Min Dice throws required is {0}".
 	format(getMinDiceThrows(moves, N)))
 
-# This code is contributed by Ajitesh Pathak
+
